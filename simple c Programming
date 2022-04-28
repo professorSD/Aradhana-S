@@ -1,2 +1,4 @@
 #include (studio.h)
 #include (conio.h)
+printf
+scanf 
